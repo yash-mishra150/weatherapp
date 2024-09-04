@@ -8,6 +8,6 @@ Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](
 npx create-expo-app -e with-router-tailwind
 ```
 
-These are screens including searching and autosaving city name
+These are screens including searching and autosaving city name<br/>
 <img src="https://github.com/user-attachments/assets/6128dbb8-302a-468c-b053-b01ca24eda75" width="300"><br/>
 <img src="https://github.com/user-attachments/assets/6349809a-bc29-4a5b-9cec-069f8289a21d" width="300" >
