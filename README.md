@@ -9,5 +9,5 @@ npx create-expo-app -e with-router-tailwind
 ```
 
 These are screens including searching and autosaving city name
-<img src="https://github.com/user-attachments/assets/6128dbb8-302a-468c-b053-b01ca24eda75" width="100">
-<img src="https://github.com/user-attachments/assets/6349809a-bc29-4a5b-9cec-069f8289a21d" width="100" >
+<img src="https://github.com/user-attachments/assets/6128dbb8-302a-468c-b053-b01ca24eda75" width="500">
+<img src="https://github.com/user-attachments/assets/6349809a-bc29-4a5b-9cec-069f8289a21d" width="500" >
