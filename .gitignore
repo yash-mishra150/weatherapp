@@ -1,0 +1,51 @@
+# Node modules
+node_modules/
+
+# Expo and build artifacts
+.expo/
+dist/
+web-build/
+
+# macOS system files
+.DS_Store
+
+# Android Studio and Gradle
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+gradle/wrapper/gradle-wrapper.jar
+
+# Debugging and logs
+npm-debug.*
+*.log
+
+# Certificates and keys
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Temporary files
+*.swp
+*.swo
+*.orig.*
+
+# Optional: additional build or temporary directories
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.log
+
+# JetBrains specific
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Kotlin specific
+*.kotlin_module
